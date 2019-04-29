@@ -6,16 +6,20 @@ let num2 = 10;
 // Store the sum of num1 and num2 in a variable.
 // Print the sum.
 let sum = num1 + num2;
-console.log(sum);
+console.log(`sum is -> ${sum}`);
 
 // **** Problem 2 ****
 // Store the difference between sum (above) and 7 in a variable.
 // Print the difference.
+let difference=sum-7
+console.log(difference)
 
 
 // **** Problem 3 ****
 // Store the product of difference and 3 in a variable.
 // Print the product.
+let product = difference*3
+console.log(product)
 
 
 // **** Problem 4 ****
